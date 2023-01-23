@@ -18,3 +18,4 @@
 - [`GitHub Actions - docker, docker-compose CI / CD`](https://github.com/seunGit/TIL-TodayILearned/issues/4)
 - [`Artillery를 활용한 성능테스트`](https://github.com/seunGit/TIL-TodayILearned/issues/1)
 - [`스케일 업(Scale-up), 스케일 아웃(Scale-out)`](https://github.com/seunGit/TIL-TodayILearned/issues/2)
+- [`MySQL - ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)`](https://github.com/seunGit/TIL-TodayILearned/issues/6)
