@@ -3,6 +3,7 @@
 ### 목차
 - [Java](#Java)
 - [Spring](#Spring)
+- [SpringBatch](#SpringBatch)
 - [Git / GitHub](#Git/Github)
 - [Infra](#Infra)
 
@@ -11,8 +12,13 @@
 ## Spring
 - [`회원가입 이메일, 비밀번호 정규식 인식 불가(feat. @Valid)`](https://github.com/seunGit/TIL-TodayILearned/issues/3)
 - [`Junit5를 활용한 테스트 코드 작성 given - when - then`](https://github.com/seunGit/TIL-TodayILearned/issues/5)
+- [`IoC 컨테이너, DI 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/7)
+- [`@configuration 어노테이션에 대하여...`](https://github.com/seunGit/TIL-TodayILearned/issues/9)
 
-### Infra
+## Spring Batch
+- [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
+
+## Infra
 - [`nGrinder를 활용한 성능테스트 (1) - Controller 및 Agent 설치`](https://seungit.github.io/posts/nGrinder/)
 - [`CI/CD 란 무엇인가?`](https://seungit.github.io/posts/cicd/)
 - [`GitHub Actions - docker, docker-compose CI / CD`](https://github.com/seunGit/TIL-TodayILearned/issues/4)
