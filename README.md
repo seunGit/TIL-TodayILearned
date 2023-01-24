@@ -15,7 +15,7 @@
 - [`IoC 컨테이너, DI 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/7)
 - [`@configuration 어노테이션에 대하여...`](https://github.com/seunGit/TIL-TodayILearned/issues/9)
 
-## Spring Batch
+## SpringBatch
 - [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
 
 ## Infra
