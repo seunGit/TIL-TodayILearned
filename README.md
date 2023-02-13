@@ -17,6 +17,11 @@
 
 ## SpringBatch
 - [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
+- [`주문테이블에서 정산테이블로 이관하기`](https://github.com/seunGit/TIL-TodayILearned/issues/11)
+- [`Chunk 란 무엇인가?`](https://github.com/seunGit/TIL-TodayILearned/issues/12)
+- [`스프링 스케쥴링 사용하기`](https://github.com/seunGit/TIL-TodayILearned/issues/13)
+- [`ItemReader에 대하여`](https://github.com/seunGit/TIL-TodayILearned/issues/14)
+- [`상품목록에서 상품 판매량 순서로 정렬하기`](https://github.com/seunGit/TIL-TodayILearned/issues/16)
 
 ## Infra
 - [`nGrinder를 활용한 성능테스트 (1) - Controller 및 Agent 설치`](https://seungit.github.io/posts/nGrinder/)
