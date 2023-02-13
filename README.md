@@ -22,6 +22,9 @@
 - [`Junit5를 활용한 테스트 코드 작성 given - when - then`](https://github.com/seunGit/TIL-TodayILearned/issues/5)
 - [`IoC 컨테이너, DI 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/7)
 - [`@configuration 어노테이션에 대하여...`](https://github.com/seunGit/TIL-TodayILearned/issues/9)
+- [`[오류]no serializer found for class org.hibernate.proxy.pojo.bytebuddy.bytebuddyinterceptor and no properties discovered to create beanserializer`](https://github.com/seunGit/TIL-TodayILearned/issues/15)
+- [`DB데이터 화면에 보여주기 (feat.ajax)`](https://github.com/seunGit/TIL-TodayILearned/issues/20)
+- [`JPA 지연 로딩, 즉시 로딩 (fetch = FetchType.LAZY, EAGER)`](https://github.com/seunGit/TIL-TodayILearned/issues/23)
 
 ## SpringBatch
 - [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
