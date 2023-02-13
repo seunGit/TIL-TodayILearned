@@ -15,6 +15,7 @@
 - [`hash`](https://github.com/seunGit/TIL-TodayILearned/issues/19)
 - [`Singleton Pattern`](https://github.com/seunGit/TIL-TodayILearned/issues/21)
 - [`Generics`](https://github.com/seunGit/TIL-TodayILearned/issues/22)
+- [`ArrayList vs LinkedList`](https://github.com/seunGit/TIL-TodayILearned/issues/24)
 
 ## Spring
 - [`회원가입 이메일, 비밀번호 정규식 인식 불가(feat. @Valid)`](https://github.com/seunGit/TIL-TodayILearned/issues/3)
