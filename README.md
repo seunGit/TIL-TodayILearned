@@ -6,6 +6,7 @@
 - [SpringBatch](#SpringBatch)
 - [Git / GitHub](#Git/Github)
 - [Infra](#Infra)
+- [Web](#Web)
 
 <br>
 
@@ -20,6 +21,8 @@
 - [`Garbage Collector`](https://github.com/seunGit/TIL-TodayILearned/issues/26)
 - [`Override, Overload`](https://github.com/seunGit/TIL-TodayILearned/issues/27)
 - [`Polymorphism`](https://github.com/seunGit/TIL-TodayILearned/issues/28)
+- [`JVM`](https://github.com/seunGit/TIL-TodayILearned/issues/29)
+- [`Constructor`](https://github.com/seunGit/TIL-TodayILearned/issues/30)
 
 ## Spring
 - [`회원가입 이메일, 비밀번호 정규식 인식 불가(feat. @Valid)`](https://github.com/seunGit/TIL-TodayILearned/issues/3)
@@ -29,6 +32,7 @@
 - [`[오류]no serializer found for class org.hibernate.proxy.pojo.bytebuddy.bytebuddyinterceptor and no properties discovered to create beanserializer`](https://github.com/seunGit/TIL-TodayILearned/issues/15)
 - [`DB데이터 화면에 보여주기 (feat.ajax)`](https://github.com/seunGit/TIL-TodayILearned/issues/20)
 - [`JPA 지연 로딩, 즉시 로딩 (fetch = FetchType.LAZY, EAGER)`](https://github.com/seunGit/TIL-TodayILearned/issues/23)
+- [`JWT`](https://github.com/seunGit/TIL-TodayILearned/issues/32)
 
 ## SpringBatch
 - [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
@@ -46,3 +50,6 @@
 - [`스케일 업(Scale-up), 스케일 아웃(Scale-out)`](https://github.com/seunGit/TIL-TodayILearned/issues/2)
 - [`MySQL - ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)`](https://github.com/seunGit/TIL-TodayILearned/issues/6)
 - [`로드 밸런스 구축`](https://github.com/seunGit/TIL-TodayILearned/issues/10)
+
+## Web
+- [`CORS`](https://github.com/seunGit/TIL-TodayILearned/issues/31)
