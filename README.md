@@ -6,6 +6,7 @@
 - [SpringBatch](#SpringBatch)
 - [Git / GitHub](#Git/Github)
 - [Infra](#Infra)
+- [DB](#DB)
 - [Web](#Web)
 
 <br>
@@ -23,6 +24,7 @@
 - [`Polymorphism`](https://github.com/seunGit/TIL-TodayILearned/issues/28)
 - [`JVM`](https://github.com/seunGit/TIL-TodayILearned/issues/29)
 - [`Constructor`](https://github.com/seunGit/TIL-TodayILearned/issues/30)
+- [`OOP`](https://github.com/seunGit/TIL-TodayILearned/issues/34)
 
 ## Spring
 - [`회원가입 이메일, 비밀번호 정규식 인식 불가(feat. @Valid)`](https://github.com/seunGit/TIL-TodayILearned/issues/3)
@@ -30,9 +32,11 @@
 - [`IoC 컨테이너, DI 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/7)
 - [`@configuration 어노테이션에 대하여...`](https://github.com/seunGit/TIL-TodayILearned/issues/9)
 - [`[오류]no serializer found for class org.hibernate.proxy.pojo.bytebuddy.bytebuddyinterceptor and no properties discovered to create beanserializer`](https://github.com/seunGit/TIL-TodayILearned/issues/15)
-- [`DB데이터 화면에 보여주기 (feat.ajax)`](https://github.com/seunGit/TIL-TodayILearned/issues/20)
 - [`JPA 지연 로딩, 즉시 로딩 (fetch = FetchType.LAZY, EAGER)`](https://github.com/seunGit/TIL-TodayILearned/issues/23)
 - [`JWT`](https://github.com/seunGit/TIL-TodayILearned/issues/32)
+- [`JPA 영속성 컨텍스트`](https://github.com/seunGit/TIL-TodayILearned/issues/33)
+- [`REST API`](https://github.com/seunGit/TIL-TodayILearned/issues/35)
+- [`DI`](https://github.com/seunGit/TIL-TodayILearned/issues/37)
 
 ## SpringBatch
 - [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
@@ -48,8 +52,12 @@
 - [`GitHub Actions - docker, docker-compose CI / CD`](https://github.com/seunGit/TIL-TodayILearned/issues/4)
 - [`Artillery를 활용한 성능테스트`](https://github.com/seunGit/TIL-TodayILearned/issues/1)
 - [`스케일 업(Scale-up), 스케일 아웃(Scale-out)`](https://github.com/seunGit/TIL-TodayILearned/issues/2)
-- [`MySQL - ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)`](https://github.com/seunGit/TIL-TodayILearned/issues/6)
 - [`로드 밸런스 구축`](https://github.com/seunGit/TIL-TodayILearned/issues/10)
+
+## DB
+- [`MySQL - ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)`](https://github.com/seunGit/TIL-TodayILearned/issues/6)
+- [`DB index`](https://github.com/seunGit/TIL-TodayILearned/issues/36)
+- [`DB데이터 화면에 보여주기 (feat.ajax)`](https://github.com/seunGit/TIL-TodayILearned/issues/20)
 
 ## Web
 - [`CORS`](https://github.com/seunGit/TIL-TodayILearned/issues/31)
