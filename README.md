@@ -3,7 +3,7 @@
 ### 목차
 - [Java](#Java)
 - [Spring](#Spring)
-- [SpringBatch](#SpringBatch)
+- [Spring Batch](#Spring-Batch)
 - [Git](#Git)
 - [Infra](#Infra)
 - [DB](#DB)
@@ -44,7 +44,7 @@
 - [`Filter, Interceptor, AOP`](https://github.com/seunGit/TIL-TodayILearned/issues/38)
 - [`Constructor Injection vs Field Injection vs Setter Injection`](https://github.com/seunGit/TIL-TodayILearned/issues/39)
 
-## SpringBatch
+## Spring Batch
 - [`Spring Batch 작업을 위한 간단한 개념정리`](https://github.com/seunGit/TIL-TodayILearned/issues/8)
 - [`주문테이블에서 정산테이블로 이관하기`](https://github.com/seunGit/TIL-TodayILearned/issues/11)
 - [`Chunk 란 무엇인가?`](https://github.com/seunGit/TIL-TodayILearned/issues/12)
