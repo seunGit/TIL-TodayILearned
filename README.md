@@ -4,7 +4,7 @@
 - [Java](#Java)
 - [Spring](#Spring)
 - [SpringBatch](#SpringBatch)
-- [Git / GitHub](#Git/GitHub)
+- [Git](#Git)
 - [Infra](#Infra)
 - [DB](#DB)
 - [Web](#Web)
@@ -52,7 +52,7 @@
 - [`ItemReader에 대하여`](https://github.com/seunGit/TIL-TodayILearned/issues/14)
 - [`상품목록에서 상품 판매량 순서로 정렬하기`](https://github.com/seunGit/TIL-TodayILearned/issues/16)
 
-## Git/GitHub
+## Git
 - [`Git Conflict`](https://github.com/seunGit/TIL-TodayILearned/issues/44)
 
 ## Infra
