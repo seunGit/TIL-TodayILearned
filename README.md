@@ -4,7 +4,7 @@
 - [Java](#Java)
 - [Spring](#Spring)
 - [SpringBatch](#SpringBatch)
-- [Git / GitHub](#Git/Github)
+- [Git / GitHub](#Git/GitHub)
 - [Infra](#Infra)
 - [DB](#DB)
 - [Web](#Web)
