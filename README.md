@@ -47,6 +47,7 @@
 - [Filter, Interceptor, AOP](https://github.com/seunGit/TIL-TodayILearned/issues/38)
 - [Constructor Injection vs Field Injection vs Setter Injection](https://github.com/seunGit/TIL-TodayILearned/issues/39)
 - [@SpringBootTest, @WebMvcTest](https://github.com/seunGit/TIL-TodayILearned/issues/47)
+- [JPA Dirty Checking](https://github.com/seunGit/TIL-TodayILearned/issues/54)
 
 ## Spring Batch
 - [Spring Batch 작업을 위한 간단한 개념정리](https://github.com/seunGit/TIL-TodayILearned/issues/8)
@@ -73,10 +74,12 @@
 - [DB데이터 화면에 보여주기 (feat.ajax)](https://github.com/seunGit/TIL-TodayILearned/issues/20)
 - [Transaction](https://github.com/seunGit/TIL-TodayILearned/issues/48)
 - [RDB, NoSQL](https://github.com/seunGit/TIL-TodayILearned/issues/52)
+- [Normalization](https://github.com/seunGit/TIL-TodayILearned/issues/55)
 
 ## Web
 - [CORS](https://github.com/seunGit/TIL-TodayILearned/issues/31)
 - [WAS, Web Server](https://github.com/seunGit/TIL-TodayILearned/issues/49)
+- [HTTP, HTTPS](https://github.com/seunGit/TIL-TodayILearned/issues/56)
 
 ## CS
 - [MSA](https://github.com/seunGit/TIL-TodayILearned/issues/40)
