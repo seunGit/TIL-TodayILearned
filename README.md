@@ -75,6 +75,7 @@
 - [Transaction](https://github.com/seunGit/TIL-TodayILearned/issues/48)
 - [RDB, NoSQL](https://github.com/seunGit/TIL-TodayILearned/issues/52)
 - [Normalization](https://github.com/seunGit/TIL-TodayILearned/issues/55)
+- [INNER JOIN, OUTER JOIN](https://seungit.oopy.io/581146a1-5ec4-4bfa-b498-212f77e2a908)
 
 ## Web
 - [CORS](https://github.com/seunGit/TIL-TodayILearned/issues/31)
