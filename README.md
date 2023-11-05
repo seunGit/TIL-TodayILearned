@@ -43,11 +43,20 @@
 - [Primitive type](https://velog.io/@seungit/JavaScript-Primitive-values)
 - [use strict](https://velog.io/@seungit/JavaScript-use-strict)
 - [Object](https://velog.io/@seungit/JavaScript-Object)
-- [실행 컨텍스트](https://velog.io/@seungit/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
+- [객체 생성방법](https://velog.io/@seungit/JavaScript-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EB%B0%A9%EB%B2%95)
+- [⭐️ 실행 컨텍스트](https://velog.io/@seungit/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 - [hoisting](https://velog.io/@seungit/JavaScript-hoisting)
 - [Function](https://velog.io/@seungit/JavaScript-Function)
 - [arrow Function](https://velog.io/@seungit/JavaScript-%ED%99%94%EC%82%B4%ED%91%9C-%ED%95%A8%EC%88%98)
 - [this, bind, call, apply](https://velog.io/@seungit/JavaScript-this-bind-call-apply)
+- [for loops](https://velog.io/@seungit/JavaScript-for-loops)
+- [⭐️ for, settimeout, var, let](https://velog.io/@seungit/JavaScript-for-settimeout-var-let)
+- [⭐️ Promise](https://velog.io/@seungit/JavaScript-Promise)
+- [async, await, Promise.all(), Promise.race()](https://velog.io/@seungit/JavaScript-async-await-Promise.all-Promise.race)
+- [set](https://velog.io/@seungit/JavaScript-set)
+- [Class](https://velog.io/@seungit/JavaScript-Class)
+- [⭐️ Prototype](https://velog.io/@seungit/JavaScript-prototype)
+
 ## HTML
 - []()
 
